@@ -379,17 +379,17 @@ Give a name to the credential and save it.
 
 <tr>
 <td><b>TEAMSAPPID</b></td>
-<td>Keep this empty. This variable should be set later.</td>
+<td>TEAMSAPPID_PH</td>
 </tr>
 
 <tr>
 <td><b>FEEDBACKFORMURL</b></td>
-<td>URL to your feedback form</td>
+<td>FEEDBACKFORMURL_PH</td>
 </tr>
 
 <tr>
 <td><b>FAQURL</b></td>
-<td>URL where FAQs are going to be present</td>
+<td>FAQURL_PH</td>
 </tr>
 
 <tr>
